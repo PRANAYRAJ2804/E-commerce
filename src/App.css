@@ -1,3 +1,6 @@
-body{
-    background: #5e8caa;
+body {
+  background: #5e8caa;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }

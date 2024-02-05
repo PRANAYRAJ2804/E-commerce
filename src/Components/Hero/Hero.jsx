@@ -3,6 +3,7 @@ import './Hero.css'
 import hand_icon from '../Assets/hand_icon.png'
 import arrow_icon from '../Assets/arrow.png'
 import hero_image from '../Assets/hero_image.png'
+import hand_icon1 from '../Assets/hi.gif'
 
 const Hero = () => {
   return (
@@ -12,7 +13,7 @@ const Hero = () => {
             <div>
                 <div className="hero-hand-icon">
                     <p>new</p>
-                    <img src={hand_icon} alt="" />
+                    <img src={hand_icon1} alt="" />
                 </div>
                 <p>collections</p>
                 <p>for everyone</p>
