@@ -4,3 +4,16 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+.app{
+  padding: 100px;
+  background: #FBFBF9;
+  /* border: 100px solid #FBFBF9; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+
+}

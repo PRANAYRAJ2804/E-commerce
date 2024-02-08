@@ -1,4 +1,4 @@
-import p1_img from ".../Assets/product_1.png";
+import p1_img from "../Assets/product_1.png";
 import p2_img from "../Assets/product_2.png";
 import p3_img from "../Assets/product_3.png";
 import p4_img from "../Assets/product_4.png";
