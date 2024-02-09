@@ -11,7 +11,3 @@ Currently, two official plugins are available:
 
 1- npm install
 2- npm install react-router-dom
-3-
-Elevate Your Style, Redefine Your Closet!
-Discover Your Style,
-#6985C0
