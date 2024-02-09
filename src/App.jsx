@@ -22,7 +22,7 @@ function App() {
     setLoading(true)
     setTimeout(()=>{
       setLoading(false)
-    }, 5000)
+    }, 3000)
   },[])
  
 
@@ -50,7 +50,7 @@ function App() {
       <Route exact path='/womens' element={<ShopCategory banner={women_banner} category="women"/>}/>
       <Route exact path='/kids' element={<ShopCategory banner={kid_banner} category="kid"/>}/>
       <Route exact path='/product' element={<Product/>}>
-        <Route exact path='/productId' element={<Product/>}/>
+        <Route exact path=':productId' element={<Product/>}/>
       </Route>
       <Route path='/cart' element={<Cart/>}/>
       <Route path='/login' element={<LoginSignup/>}/>

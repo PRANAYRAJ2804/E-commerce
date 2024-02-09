@@ -6,6 +6,12 @@
     gap: 20px;
    
 }
+.logo-name::first-letter{
+    color: orange;
+    font-size: 35px;
+    font-weight: 700;
+
+}
 .footer-logo{
     display: flex;
     align-items: center;
@@ -34,9 +40,9 @@
 }
 
 .footer-icons-container{
-    padding: 3px;
-    background: #FBFBF9;
-    border: 3px solid #4d6170;
+    /* padding: 3px; */
+    /* background: #FBFBF9; */
+    /* border: 3px solid #4d6170; */
 }
 
 .footer-copyright{
