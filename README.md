@@ -2,6 +2,8 @@
 
 view demo -> [E-COMMERCE](https://pranayraj2804.github.io/E-commerce/)
 
+This is a basic E-commerce application 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
